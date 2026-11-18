@@ -1,0 +1,171 @@
+nohup: ignoring input
+WARNING - 2026-11-12T00:14:08Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:14:11Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:14:11Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:32] 30%|███       | [00:03<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:06<00:00]100%|██████████| [00:06<00:00]
+INFO - 2026-11-12T00:14:21Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:14:23Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:14:25Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:14:25Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:38] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:06<00:00]100%|██████████| [00:06<00:00]
+INFO - 2026-11-12T00:14:36Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:14:37Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:14:40Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:14:40Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:29] 16%|█▋        | [00:02<00:08] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 70%|██████▉   | [00:04<00:01] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:05<00:00]100%|██████████| [00:05<00:00]
+INFO - 2026-11-12T00:14:49Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:14:51Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:14:53Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:14:53Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:33] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 63%|██████▎   | [00:04<00:02] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:06<00:00]100%|██████████| [00:06<00:00]
+INFO - 2026-11-12T00:15:03Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:15:04Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:15:07Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:15:07Z - Selected dataset part: "default"
+ERROR - 2026-11-12T00:15:10Z - Variable does not exist in the dataset: The variable 'kd' is neither a variable or a standard name in the dataset.
+WARNING - 2026-11-12T00:15:12Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:15:14Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:15:14Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:31] 16%|█▋        | [00:02<00:08] 30%|███       | [00:03<00:05] 44%|████▍     | [00:03<00:03] 63%|██████▎   | [00:04<00:01] 70%|██████▉   | [00:04<00:01] 77%|███████▋  | [00:05<00:01] 88%|████████▊ | [00:05<00:00]100%|██████████| [00:05<00:00]
+INFO - 2026-11-12T00:15:23Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:15:25Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:15:28Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:15:28Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:32] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 63%|██████▎   | [00:04<00:02] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:06<00:00]100%|██████████| [00:06<00:00]
+INFO - 2026-11-12T00:15:38Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:15:39Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:15:42Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:15:42Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:31] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:04] 63%|██████▎   | [00:05<00:02] 70%|██████▉   | [00:05<00:01] 88%|████████▊ | [00:05<00:00]100%|██████████| [00:05<00:00]
+INFO - 2026-11-12T00:15:51Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:15:53Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:15:55Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:15:55Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:30] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 70%|██████▉   | [00:04<00:01] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:07<00:01]100%|██████████| [00:07<00:00]
+INFO - 2026-11-12T00:16:06Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:16:07Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:16:10Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:16:10Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:01<01:15] 16%|█▋        | [00:02<00:08] 30%|███       | [00:03<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 70%|██████▉   | [00:04<00:01] 77%|███████▋  | [00:05<00:01] 88%|████████▊ | [00:05<00:00]100%|██████████| [00:05<00:00]
+INFO - 2026-11-12T00:16:19Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:16:21Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:16:23Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:16:23Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:33] 30%|███       | [00:02<00:05] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:04<00:03] 63%|██████▎   | [00:04<00:02] 81%|████████▏ | [00:04<00:00] 88%|████████▊ | [00:06<00:00]100%|██████████| [00:06<00:00]
+INFO - 2026-11-12T00:16:33Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:16:34Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:16:37Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:16:37Z - Selected dataset part: "default"
+INFO - 2026-11-12T00:16:42Z - Total size of the download: 2.92 MB.
+{
+  "file_size": "2.92 MB",
+  "data_transfer_size": "42.21 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:16:43Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:16:46Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:16:46Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:01<01:02] 16%|█▋        | [00:01<00:07] 30%|███       | [00:02<00:04] 56%|█████▌    | [00:02<00:01] 67%|██████▋   | [00:02<00:00] 77%|███████▋  | [00:04<00:01]100%|██████████| [00:04<00:00]
+INFO - 2026-11-12T00:16:53Z - Total size of the download: 8.72 MB.
+{
+  "file_size": "8.72 MB",
+  "data_transfer_size": "168.53 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:16:55Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:16:57Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:16:57Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:02<01:26] 30%|███       | [00:03<00:07] 44%|████▍     | [00:03<00:03] 63%|██████▎   | [00:04<00:01] 70%|██████▉   | [00:04<00:01] 77%|███████▋  | [00:05<00:01] 88%|████████▊ | [00:06<00:00]100%|██████████| [00:06<00:00]
+INFO - 2026-11-12T00:17:07Z - Total size of the download: 4.37 MB.
+{
+  "file_size": "4.37 MB",
+  "data_transfer_size": "337.06 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:17:09Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:17:11Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:17:11Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  2%|▏         | [00:01<01:20] 30%|███       | [00:02<00:04] 44%|████▍     | [00:03<00:03] 51%|█████     | [00:03<00:03] 63%|██████▎   | [00:04<00:02] 70%|██████▉   | [00:04<00:01] 88%|████████▊ | [00:04<00:00]100%|██████████| [00:04<00:00]
+INFO - 2026-11-12T00:17:19Z - Total size of the download: 4.37 MB.
+{
+  "file_size": "4.37 MB",
+  "data_transfer_size": "337.06 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+WARNING - 2026-11-12T00:17:21Z - '--force-download' has been deprecated.
+INFO - 2026-11-12T00:17:24Z - Selected dataset version: "202012"
+INFO - 2026-11-12T00:17:24Z - Selected dataset part: "default"
+INFO - 2026-11-12T00:17:28Z - Total size of the download: 1.47 MB.
+{
+  "file_size": "1.47 MB",
+  "data_transfer_size": "84.42 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+If a dataset-id above is rejected, list the current ids with:
+  copernicusmarine describe --contains NWSHELF_MULTIYEAR_BGC_004_011 --include-datasets | grep dataset_id
+  copernicusmarine describe --contains NWSHELF_MULTIYEAR_PHY_004_009 --include-datasets | grep dataset_id
