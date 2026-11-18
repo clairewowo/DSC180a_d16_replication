@@ -1,0 +1,30 @@
+nohup: ignoring input
+skip NWS_BGC_O2_daily_WEC.nc
+skip NWS_BGC_NO3_daily_WEC.nc
+skip NWS_BGC_PO4_daily_WEC.nc
+skip NWS_BGC_CHL_daily_WEC.nc
+WARNING - 2026-11-18T01:52:11Z - '--force-download' has been deprecated.
+INFO - 2026-11-18T01:52:14Z - Selected dataset version: "202012"
+INFO - 2026-11-18T01:52:14Z - Selected dataset part: "default"
+  0%|          | [00:00<?]  1%|          | [00:01<03:00]  7%|▋         | [00:02<00:27] 12%|█▏        | [00:03<00:17] 20%|██        | [00:03<00:08] 28%|██▊       | [00:03<00:06] 35%|███▌      | [00:05<00:07] 41%|████      | [00:05<00:05] 50%|█████     | [00:05<00:03] 58%|█████▊    | [00:07<00:04] 71%|███████▏  | [00:07<00:02] 74%|███████▍  | [00:08<00:02] 80%|████████  | [00:08<00:01] 85%|████████▍ | [00:08<00:01] 92%|█████████▏| [00:09<00:00] 95%|█████████▌| [00:10<00:00]100%|██████████| [00:10<00:00]
+INFO - 2026-11-18T01:52:28Z - Total size of the download: 48.35 MB.
+{
+  "file_size": "48.35 MB",
+  "data_transfer_size": "337.06 MB",
+  "status": "000",
+  "message": "The request was successful."
+}
+skip NWS_BGC_PHYC_daily_WEC.nc
+skip NWS_BGC_DIATO_daily_WEC.nc
+skip NWS_BGC_DINO_daily_WEC.nc
+skip NWS_BGC_NANO_daily_WEC.nc
+skip NWS_BGC_PICO_daily_WEC.nc
+skip NWS_BGC_PP_daily_WEC.nc
+skip NWS_BGC_SPCO2_daily_WEC.nc
+skip NWS_BGC_PH_daily_WEC.nc
+skip NWS_PHY_T_daily_WEC.nc
+skip NWS_PHY_S_daily_WEC.nc
+skip NWS_PHY_MLD_daily_WEC.nc
+If a dataset-id above is rejected, list the current ids with:
+  copernicusmarine describe --contains NWSHELF_MULTIYEAR_BGC_004_011 --include-datasets | grep dataset_id
+  copernicusmarine describe --contains NWSHELF_MULTIYEAR_PHY_004_009 --include-datasets | grep dataset_id
