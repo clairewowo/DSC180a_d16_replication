@@ -1,0 +1,25 @@
+taxon	abbrev	nonANN_equation	MAP_equation	MAP_parents	nonANN_r	MAP_r
+Actinomycetales	act	fpico/(2.0228355*(-MCH - 1*2.187267 + flarge/MPO)) + 0.41956118 + MPO/MCH	fpico/(2.0228355*(-MCH - 1*2.187267 + flarge/MPO)) + 0.41956118 + MPO/MCH		-0.023	-0.023
+Alteromonadales	alt	-MCH + 11.337284 + MPO*4946.6387/MO2 - 2.156265/MCH	-MCH + 11.337284 + MPO*4946.6387/MO2 - 2.156265/MCH		0.354	0.354
+Bacillales	bac	MPO/(MPO - 1*(-0.029373053))	MPO/(MPO - 1*(-0.029373053))		0.010	0.010
+Burkholderiales	bur	-(-0.00074161426)*MCH*MNT*(-MCH - 0.32097825)/(MPO*(-MPO + flarge - 0.32097825)) + MCH + MPO	-(-0.00074161426)*MCH*MNT*(-MCH - 0.32097825)/(MPO*(-MPO + flarge - 0.32097825)) + MCH + MPO		-0.095	-0.095
+Cyanobacteria	cya	fpico/((MCH*(MCH + MNT - 3.1560464))) + 1.3193108	fpico/((MCH*(MCH + MNT - 3.1560464))) + 1.3193108		-0.244	-0.244
+Desulfobacterales	des	MPO*MPO/(fpico*((MNT*flarge*flarge*fpico)))	MPO*MPO/(fpico*((MNT*flarge*flarge*fpico)))		0.782	0.767
+Enterobacteriales	ent	MPO*(MPO + flarge/(MNT + 0.17900874 - 1.5305777/(MPO + 0.17900874))) + MPO + 0.18769431	MPO*(MPO + flarge/(MNT + 0.17900874 - 1.5305777/(MPO + 0.17900874))) + MPO + 0.18769431		-0.109	-0.109
+Flavobacteriales	fla	MCH*(-MCH + 31.383642 - 4.993894/fpico) + flarge*(137.7454 - 125.76962*MPO) - 55.681747	MCH*(-MCH + 31.383642 - 4.993894/fpico) + flarge*(137.7454 - 125.76962*MPO) - 55.681747		0.362	0.365
+Legionellales	leg	MPO - 1.0879805*(-40.9717885472215/MO2)	MPO - 1.0879805*(-40.9717885472215/MO2)		0.257	0.257
+Methylophilales	met	MO2*0.00524422 + MPO	MO2*0.00524422 + MPO		-0.129	-0.129
+Oceanospirillales	oce	-1*(-5.458931) + (1.8431542 - 8.156913*fpico)/((-0.87812406)*MCH*(MCH*(-0.1936357) - MPO))	MCH + bac + (-3.9463527 + (-ent + 0.57057256/fpico)/MCH)/(des*8.336711 + 0.3463897) + 8.336711	bac,des,ent	0.514	0.501
+Opitutales	opi	fpico*(MCH*MPO/(-MCH - MCH + MO2 - 1*224.10506) + 0.014993917)	fpico*(MCH*MPO/(-MCH - MCH + MO2 - 1*224.10506) + 0.014993917)		-0.029	0.004
+Planctomycetales	pla	MPO*MPO*MPO/(0.9259906 - flarge/(MPO*(MNT - MPO)))	MPO*MPO*MPO/(0.9259906 - flarge/(MPO*(MNT - MPO)))		0.099	0.001
+Prochlorales	pro	0.0	0.0		const	const
+Pseudomonadales	pse	0.934648 - (-0.090283)*MPO/(flarge - fpico - fpico - fpico)	-1*(-0.31086844) + (act + bac*bur + bur + bur + bur + ent)/(((alt + bur)/(bur + ent)))	act,alt,bac,bur,ent	0.132	-0.067
+Rhizobiales	rhi	MPO/(MNT*(MPO + fpico*(-0.80527383)))	opi + opi + opi - (opi - 0.11090015)/(spb*(-3.2959824) - 1*(-2.6209826)) - 0.11090015 + 0.5290123/(leg*(-2.6108572) - 1*(-3.2959824))	leg,opi,spb	0.034	0.098
+Rhodobacterales	rho	MO2/3.7511446 - 1*42.07921 - 6.2165956*8.34360013329736*MPO	MO2/3.7511446 - 1*42.07921 - 6.2165956*8.34360013329736*MPO		0.612	0.612
+Rhodospirillales	rhs	(-MCH*MPO*(MNT - MPO/fpico) + MPO + MPO/fpico + 0.035439193)/0.783165	MPO + leg*ver + pla - (MPO*(-2.327061)*ver*ver + des*(ver*ver*ver - 1.0710588))	des,leg,pla,ver	0.776	0.813
+Rickettsiales	ric	MCH*MCH - MNT + MPO*68.632545/(MPO + flarge - 1*0.4365491) - 1*(-12.412788)	MCH - bac + fla*(-0.7580959) - pse - rho + vib*(-0.7817686) - (cya + xan*3.0856164 - 9.464736) + 60.472397	bac,cya,fla,pse,rho,vib,xan	0.420	0.360
+Sphingobacteriales	spb	0.76712924 + MO2*(-0.0025205496)	cya*opi*(bur + cya*0.34099606) + fla*fla*fla*fla*1.1574361e-7 + 0.053932633	bur,cya,fla,opi	-0.042	0.060
+Sphingomonadales	sph	MPO + 0.09162785 - 0.010684414/(MPO/0.08199355 - 0.80001634) - 0.006720613*0.14566973/(MPO - 0.31721008)	act*(des + 2.4400787)*((-flarge + rho*0.043447826)*ver*act*0.17772825*met*met + pla - 1*(-0.066659614))	act,des,met,pla,rho,ver	-0.071	0.112
+Verrucomicrobiales	ver	-MPO - MPO - 1.446212 - (-1)*557.6396/MO2	-MPO + pla + 0.8717845 + (MCH*cya - 4.5604763)/(oce - (alt + 5.0470634)/(cya - oce))	alt,cya,oce,pla	0.091	-0.011
+Vibrionales	vib	8.004991/MNT	flarge + (ent + 1.0201522)*0.00012638199/((cya/(-267.79105) + leg)*(cya*(cya/(-355.6514) + leg)))	cya,ent,leg	0.004	0.421
+Xanthomonadales	xan	-1*(-0.31146348) - 0.31146348*1/(MO2*(MPO - 0.31145748))	rhi*des*1.5721571 + (act - 0.24349658)*0.015981587*(act + des - 0.35720977*pse)/(MPO + rhi*(-0.050560866))	act,des,pse,rhi	-0.047	0.019

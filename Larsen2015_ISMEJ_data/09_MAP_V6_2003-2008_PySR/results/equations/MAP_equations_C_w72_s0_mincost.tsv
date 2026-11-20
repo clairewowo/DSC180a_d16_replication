@@ -1,0 +1,25 @@
+taxon	abbrev	nonANN_equation	MAP_equation	MAP_parents	nonANN_r	MAP_r
+Actinomycetales	act	MPO + 0.589895 + 0.050160702/(MNT - 9.588541) - 0.0018715329/MPO	MPO + 0.589895 + 0.050160702/(MNT - 9.588541) - 0.0018715329/MPO		0.015	0.015
+Alteromonadales	alt	(MPO + flarge)*14.349202 - 0.6813127/MCH	(-pse + (flarge + leg)*(MNT + bur*(leg + leg) - des))*(flarge*flarge + ver) - (ver - 7.0676875)	bur,des,leg,pse,ver	0.411	0.411
+Bacillales	bac	MPO + 0.55052274	-act*(-1*(-0.3926619) - 2.631559/fla)*(act + spb + bur/MNT) + act + (0.42105323 - sph)*0.5296282	act,bur,fla,spb,sph	0.106	-0.038
+Burkholderiales	bur	(MNT/(MO2*(MCH - 0.17097886/MPO)) + MPO + flarge)/0.9075979 + 0.02402393/(-MCH + 0.1950028/MCH)	-0.23193732*ent + (MCH + spb*0.6641692*pse)*pse*0.19504395 + (met + pse)*0.20053734	ent,met,pse,spb	-0.061	-0.029
+Cyanobacteria	cya	-fpico + fpico/(-MCH/fpico + MNT) - (MPO*fpico/(0.7331856*(0.7331856 - MCH)) - 1*1.7718359)	bac*rhs*ver*ver*ver*(bur + spb)/(pse*pse) + 1.1974875	bac,bur,pse,rhs,spb,ver	-0.082	-0.081
+Desulfobacterales	des	(MPO + MPO)*(-fpico + (MPO/fpico - fpico + fpico/(MCH*MCH))/((MNT*fpico)))	(MPO + MPO)*(-fpico + (MPO/fpico - fpico + fpico/(MCH*MCH))/((MNT*fpico)))		0.744	0.745
+Enterobacteriales	ent	(MPO + fpico)*1.4664017	(MPO + fpico)*1.4664017		0.027	0.002
+Flavobacteriales	fla	MPO*(-56.24973) + flarge*(fpico/(-MCH + 1.8354454/MNT) + 38.887627)	MPO*(-56.24973) + flarge*(fpico/(-MCH + 1.8354454/MNT) + 38.887627)		0.369	0.393
+Legionellales	leg	MPO - 0.56485987 - (-1)*186.73872/MO2	MPO - 0.56485987 - (-1)*186.73872/MO2		0.084	0.084
+Methylophilales	met	MPO + fpico + (fpico - 0.21220052)/(-(MNT - 1.2253883/flarge) - 0.68083465) - 1*(-1.1206465)	MPO + fpico + (fpico - 0.21220052)/(-(MNT - 1.2253883/flarge) - 0.68083465) - 1*(-1.1206465)		-0.047	-0.057
+Oceanospirillales	oce	(-fpico + (MCH*MPO - fpico)*4.719568 + 2.220371)/((MCH*(MPO + fpico)))	(-fpico + (MCH*MPO - fpico)*4.719568 + 2.220371)/((MCH*(MPO + fpico)))		0.578	0.530
+Opitutales	opi	(MCH/(MNT - (-MPO + 0.7968116/MPO)) + 0.7968116)/MO2	(MCH/(MNT - (-MPO + 0.7968116/MPO)) + 0.7968116)/MO2		-0.039	-0.044
+Planctomycetales	pla	MPO/(MNT - flarge/MPO)	MPO/(MNT - flarge/MPO)		0.250	0.155
+Prochlorales	pro	0.0	0.0		const	const
+Pseudomonadales	pse	MPO*0.060750388/(flarge - 0.57880193)	MPO*0.060750388/(flarge - 0.57880193)		0.122	0.122
+Rhizobiales	rhi	MPO + MPO*(-0.013236436)/(MPO - 0.14452806) + 0.094761305	leg*leg*(leg + leg*leg)/(((met - 1*0.1982343)/(leg - 0.045703363))) + opi + opi + pla + 0.12643602	leg,met,opi,pla	-0.008	-0.034
+Rhodobacterales	rho	MO2*(-MCH*MO2*MPO/(MCH + MCH/(0.55020005 - MNT) - 1*(-0.0021138377)) + MO2)*0.0007301408 - 21.007904	MO2*(-MCH*MO2*MPO/(MCH + MCH/(0.55020005 - MNT) - 1*(-0.0021138377)) + MO2)*0.0007301408 - 21.007904		0.619	0.180
+Rhodospirillales	rhs	MPO*(MPO + 0.26215538)/(MCH*MNT*fpico*fpico)	MPO*(MPO + 0.26215538)/(MCH*MNT*fpico*fpico)		0.713	0.377
+Rickettsiales	ric	26.132074 - (-MCH - MCH - (MCH - 1*(-3.3311386)) + (-1*(-0.69032395) - 5.3427924e-5/(MPO*MPO))/MPO - 7.4871807/MCH)	-cya + fla*(-0.890762) - 0.79889655*vib - (pse + rho + xan*4.12158) + 69.94806 + (-rhi + rho)/oce	cya,fla,oce,pse,rhi,rho,vib,xan	0.496	0.495
+Sphingobacteriales	spb	-0.50412583 + 159.40652/MO2	-0.50412583 + 159.40652/MO2		-0.123	-0.003
+Sphingomonadales	sph	(MCH + MNT)*0.045410175	rho*(act + rhs)*(pse*pla*0.021303855 + 0.012118008)	act,pla,pse,rho,rhs	0.144	0.086
+Verrucomicrobiales	ver	(668.5552*MCH*(-1.4177577 + 410.40823/MO2) + 1.5649407/MPO)/MO2	(668.5552*MCH*(-1.4177577 + 410.40823/MO2) + 1.5649407/MPO)/MO2		-0.028	-0.102
+Vibrionales	vib	fpico*32.219894/(MNT - fpico) - 0.47008258/(2.8152869 - MNT)	flarge + (spb + (-0.0061759963 + 0.90876186/(cya*((fla*met))))/(-bac*rhi + met))/((MPO*fla))	bac,cya,fla,met,rhi,spb	-0.017	-0.025
+Xanthomonadales	xan	0.413042960000000	act*rhi*(-MPO/0.53254205 + des + met/(MPO/(ent + vib) + rhs + vib))/0.65400964	act,des,ent,met,rhi,rhs,vib	const	-0.005

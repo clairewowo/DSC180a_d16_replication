@@ -1,0 +1,25 @@
+taxon	abbrev	insitu_parameters	SIM_parameters
+Actinomycetales	act	sgm, bac, TMP	oce, bur, NH4, PAR
+Alteromonadales	alt	PAR, SAL, NH4, SIL	oce, MPC, bur
+Bacillales	bac	TMP, NH4	CHL, NIT, CHL
+Burkholderiales	bur	PAR, SIL	pse, des
+Cyanobacteria	cya	NO2, PAR, SIL, rhs	pro, pse
+Desulfobacterales	des	NO3, PAR, NO2	leg, SDC, pla
+Enterobacteriales	ent	bur, pla, SIL, NO3	alt, pla, rhi
+Flavobacteriales	fla	PAR, CHL, TMP, NO3, NO2	PAR, NH4, opi, NH4, CHL
+Legionellales	leg	NO2, PAR, SIL, SRP	ric, SPC, pro
+Methylophilales	met	TMP, NH4, NO3, SIL	BAC, PAR, ric
+Oceanospirillales	oce	PAR, CHL, bac	NIT, LDC, MPC, BAC
+Opitutales	opi	NO2	bur, alt
+Planctomycetales	pla	CHL, PAR, NH4	DO2, BAC, NH4
+Prochlorales	pro	NO3, PAR, NH4, SAL	PAR, DO2, LPC
+Pseudomonadales	pse	NH4, PAR, NO3	pla, des
+Rhizobiales	rhi	CHL, PAR	BAC, SDC, MPC, DO2
+Rhodobacterales	rho	PAR, CHL	LPC, ver, BAC, PAR
+Rhodospirillales	rhs	NO3, SIL, TMP, NH4, SAL, CHL, SRP	LDC, opi, alt
+Rickettsiales	ric	SIL, TMP, NH4, SAL, CHL, PAR	bac, spb, MPC
+Sphingobacteriales	spb	PAR, SIL	LDC, MPC, SRP, CHL
+Sphingomonadales	sph	NH4, PAR, NO3, NH4, SIL, TMP	bur, DO2, pse, bur
+Verrucomicrobiales	ver	TMP, NH4, PAR	BAC, DO2, CHL
+Vibrionales	vib	SIL, SAL, SRP	leg, oce, spb
+Xanthomonadales	xan	act, leg, NO3	vib, leg

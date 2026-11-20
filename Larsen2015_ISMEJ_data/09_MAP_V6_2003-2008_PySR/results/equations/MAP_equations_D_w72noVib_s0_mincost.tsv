@@ -1,0 +1,25 @@
+taxon	abbrev	nonANN_equation	MAP_equation	MAP_parents	nonANN_r	MAP_r
+Actinomycetales	act	flarge - (-MPO + fpico/(-MNT + MPP))	flarge - (-MPO + fpico/(-MNT + MPP))		-0.100	0.079
+Alteromonadales	alt	(flarge*(MPO + flarge*flarge) + fpico)*19.996496	(flarge*(MPO + flarge*flarge) + fpico)*19.996496		0.271	0.283
+Bacillales	bac	MPO/(MPO - 1*(-0.028054561))	act*(act - (sph + sph) - (bur + ent - 5.295751))/((MPO + flarge)*(-ent + fla + flarge)) - 1*(-0.2674644)	act,bur,ent,fla,sph	-0.032	-0.018
+Burkholderiales	bur	0.7210968 - (-1)*0.031641528*(0.13223077 - fpico)/(-MCH*MCH + fpico)	0.7210968 - (-1)*0.031641528*(0.13223077 - fpico)/(-MCH*MCH + fpico)		-0.040	-0.050
+Cyanobacteria	cya	1.4989487 + 0.16991092/(MPP - 1*16.535074)	1.4989487 + 0.16991092/(MPP - 1*16.535074)		-0.311	-0.228
+Desulfobacterales	des	MPO*(-MCH + MCH*(MCH + 0.40286234)*38.7078/MPP) + fpico/((MCH*MPP*flarge))	MPO*(-MCH + MCH*(MCH + 0.40286234)*38.7078/MPP) + fpico/((MCH*MPP*flarge))		0.721	0.681
+Enterobacteriales	ent	MPO/((MNT/19.475391))	MPO/((MNT/19.475391))		-0.002	0.068
+Flavobacteriales	fla	MPO*(-81.78876) + 119.54644 - 3.6558037/fpico + (-MCH*MCH - 40.973682)/flarge	MPO*(-81.78876) + 119.54644 - 3.6558037/fpico + (-MCH*MCH - 40.973682)/flarge		0.312	0.304
+Legionellales	leg	0.14863296 - (-MPO + (-MCH + MPO)/(MPP - 1*6.3568554) - 1*1.0)/MPP	0.14863296 - (-MPO + (-MCH + MPO)/(MPP - 1*6.3568554) - 1*1.0)/MPP		-0.010	-0.008
+Methylophilales	met	MPO + MPO*3.381221/(MCH - (-MNT + flarge*3.3303654)*(MCH*MNT)) + 1.2826905	bur/(bur*pse + 0.36549753) + (des - 1*1.5635971)*0.3438389 + 1.2901603	bur,des,pse	-0.051	-0.051
+Oceanospirillales	oce	(MNT - 1*5.524093 + (-MPO - MPO + 1.93813)/fpico)/(MCH + MPO + MPO + MPO)	(MNT - 1*5.524093 + (-MPO - MPO + 1.93813)/fpico)/(MCH + MPO + MPO + MPO)		0.452	0.311
+Opitutales	opi	(MNT - MPP/(MPP*MPP - (MO2 - MPP/0.89102083)))*0.89102083/(MNT*MO2)	(MNT - MPP/(MPP*MPP - (MO2 - MPP/0.89102083)))*0.89102083/(MNT*MO2)		-0.095	-0.037
+Planctomycetales	pla	0.0011988038/(MPO - 0.79832757*fpico)	MPO*opi/(bur - leg) + leg/rho - 0.007513402	bur,leg,opi,rho	0.018	-0.064
+Prochlorales	pro	0.0	0.0		const	const
+Pseudomonadales	pse	flarge/(MCH - MPO*MPP/MNT)	(ent/(7.706912 - bur) + (bur + des/(alt - bur - ent) - 1*0.5288959)/alt)*7.5528026 - 1*(-0.29843065)	alt,bur,des,ent	-0.043	0.053
+Rhizobiales	rhi	fpico/(-MNT + MPO/(fpico*fpico)) + 0.3031552	fpico/(-MNT + MPO/(fpico*fpico)) + 0.3031552		-0.023	-0.023
+Rhodobacterales	rho	flarge*(-fpico + (0.66082275 + fpico*(-0.0014947572)/(MPO*MPO))*(MPP + 13.25023) + 5.678404*fpico/MPO)	flarge*(-fpico + (0.66082275 + fpico*(-0.0014947572)/(MPO*MPO))*(MPP + 13.25023) + 5.678404*fpico/MPO)		0.598	0.598
+Rhodospirillales	rhs	(MCH*441.97086 + (MCH*MO2 - MPP)*(-1.6183026))/((MPP/MPO)) - 2.534872/MPP + 0.22925276/MCH	(MCH*441.97086 + (MCH*MO2 - MPP)*(-1.6183026))/((MPP/MPO)) - 2.534872/MPP + 0.22925276/MCH		0.596	0.596
+Rickettsiales	ric	MCH*(MCH + MCH) + (358.59094 - MO2)*(MPO + fpico)	MCH*(MCH + MCH) + (358.59094 - MO2)*(MPO + fpico)		0.516	-0.197
+Sphingobacteriales	spb	0.15927264/((MNT - 2.6955888)*(MPP - 3.1183488)) - 0.21687385/(-MNT + flarge)	opi*pse + (cya*cya*opi + 0.10475597)/met	cya,met,opi,pse	0.004	0.018
+Sphingomonadales	sph	-MPO + (-1*(-0.059859145) + 0.012015601/(MPP*(MPP - 1*4.5752244)))*(MNT/(MO2/MPP - (MNT - 1*(-1.2948267))) - (0.22772273 - MNT))	-MPO + (-1*(-0.059859145) + 0.012015601/(MPP*(MPP - 1*4.5752244)))*(MNT/(MO2/MPP - (MNT - 1*(-1.2948267))) - (0.22772273 - MNT))		0.160	0.143
+Verrucomicrobiales	ver	(MPO*flarge + MPO - (0.7640052 - (0.18049186 - fpico)*(fpico + fpico)/(MCH - 1*1.0628277)))*(-0.81950814)	0.5184892 - (MPO - rhs*(MCH - 0.20263064)/(-MCH + MNT - cya/oce))	cya,oce,rhs	0.226	-0.015
+Vibrionales	vib	flarge + 0.02257873/(MNT + MNT - 1*2.5442019) + fpico/(MNT*(MNT - 2.2486982))	0.38924807 + (ent*ent + (0.29487038 - rhi)/(act + rhi + sph*(act - 1.2473599)))/MNT	act,ent,rhi,sph	-0.272	0.097
+Xanthomonadales	xan	fpico + fpico + fpico/(-12.17329 + MPP/MPO)	act*(des*1.79482*(rhi*(0.29187056 - sph) + rhi) + 3.4841151/ric) + sph*4.533698/ric	act,des,rhi,ric,sph	0.097	-0.049
